@@ -15,7 +15,8 @@ The goal is to uncover actionable trading insights based on sentiment-driven beh
 
 📊 Methodology
 ---
-1. Data Preparation
+Data Preparation
+---
 
 Cleaned column names
 
@@ -27,7 +28,8 @@ Inner join on date to ensure correct sentiment mapping
 
 ---
 
-2. Key Metrics Created
+Key Metrics Created
+---
 
 Daily PnL per trader
 
